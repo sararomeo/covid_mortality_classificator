@@ -1,1 +1,2 @@
-# data_intensive_project
+# covid_mortality_classificator
+Data Intensive Application project.
